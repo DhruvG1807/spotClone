@@ -1,4 +1,4 @@
-console.log("Welcome to Spotify2")
+console.log("Welcome to Spotify")
 
 //Initialise
 let songIndex = 0;
